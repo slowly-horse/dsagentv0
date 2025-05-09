@@ -1,0 +1,7 @@
+db-dtypes
+google-cloud-alloydb
+google-cloud-alloydb-connector
+immutabledict
+pg8000
+sqlglot
+immutabledict
